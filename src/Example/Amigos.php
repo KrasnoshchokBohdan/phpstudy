@@ -8,6 +8,7 @@ class Amigos
 {
     public function __construct()
     {
+        $a = '';
         echo 'Hello Amigos !!!';
     }
 

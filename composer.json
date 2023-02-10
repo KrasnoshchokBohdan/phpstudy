@@ -4,6 +4,7 @@
     "license": "proprietary",
     "autoload": {
         "psr-4": {
+            "Phpstudy\\" : "src/"
         }
     },
     "authors": [
